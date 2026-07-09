@@ -1,109 +1,155 @@
-<div align="center">
+<p align="center">Hi 👋, I'm Challa Naga Sai Nithin</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Challa%20Naga%20Sai%20Nithin&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Cybersecurity%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer;Building+AI+Powered+Projects+%F0%9F%9A%80" />
+</p>
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/challanagasainithin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://challanagasainithin.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chnagasainithin20@gmail.com)
+## 🧠 About Me
 
-</div>
+🎓 B.Tech Computer Science (AI & ML), Anurag Engineering College
 
-<br>
+💡 Passionate about AI, Machine Learning, and Cybersecurity — solving real-world problems through data and code.
 
-## About
+🌱 Currently learning:
 
-AI & ML undergraduate (B.Tech CSE, Anurag Engineering College) with hands-on experience across machine learning model development, cybersecurity, and web technologies. Comfortable translating data-driven analysis into practical, deployable solutions, with experience collaborating across research, security, and development teams.
+* Deep Learning & LLM Integration
+* Advanced NLP
+* Model Deployment
+* Offensive Security Fundamentals
 
-<br>
+🚀 Building projects that combine AI with security and full-stack engineering.
 
-## Skills
+🎯 Goal: Become an AI/ML Engineer capable of designing and deploying intelligent, secure systems at scale.
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode&theme=dark" />
+## 🌐 Connect With Me
 
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/challanagasainithin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://challanagasainithin.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-**Data Science:** Feature Engineering · EDA · Data Preprocessing · Statistical Analysis · Data Visualization
+<a href="https://github.com/chnithin20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-**AI Engineering:** Model Training & Evaluation · NLP · Model Deployment · Prompt Engineering · LLM Integration (Ollama)
+📧 Email: **[chnagasainithin20@gmail.com](mailto:chnagasainithin20@gmail.com)**
 
-**Cybersecurity:** Vulnerability Assessment · OWASP Top 10 · Packet Analysis
+---
 
-<br>
+## 🛠 Tech Stack
 
-## Experience
+### Languages
 
-**AI Research Intern** — IIITDM Kancheepuram, HPRCSE Lab
-*Sept 2025 – Oct 2025*
-Built an AI-based ransomware detection system, preprocessing 800 samples and improving model evaluation accuracy to 94%. Collaborated with senior researchers, presenting interim findings and incorporating feedback into the detection pipeline.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Cybersecurity Intern** — Supraja Technologies
-*May 2025 – Aug 2025*
-Conducted vulnerability assessments and penetration tests, identifying and documenting OWASP Top 10 risks. Communicated findings to technical and non-technical stakeholders through clear, actionable reports.
+### AI / Machine Learning
 
-**Web Developer Intern** — InnoByte Services
-*June 2025 – July 2025*
-Built responsive UI components using HTML, CSS, and JavaScript, improving cross-device compatibility. Coordinated with designers and senior developers through iterative feedback cycles to ship features on schedule.
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 
-<br>
+### Web
 
-## Featured Projects
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**[Deepfake Voice Phishing Detection](https://github.com/chnithin20)**
-Engineered an ML pipeline (MFCC extraction, preprocessing, classifier training) to detect synthetic voice phishing attacks, reaching 93% classification accuracy on a 1,200-sample audio dataset.
-`Python` `Librosa` `Scikit-learn`
+### Cybersecurity
 
-**[NOVA Voice Assistant](https://github.com/chnithin20)**
-Designed an STT/TTS voice assistant with system automation, web search, and app-launch capabilities, cutting manual task time by an estimated 88%.
-`Python` `SpeechRecognition` `pyttsx3`
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white)
 
-**[Network Packet Sniffer](https://github.com/chnithin20)**
-Implemented a live packet-capture tool with TCP/UDP/ICMP/ARP protocol filtering and metadata extraction, processing 5,000+ packets per session.
-`Python` `Scapy`
+### Tools
 
-**[AI Text Summarizer](https://github.com/chnithin20)**
-Developed an extractive summarization engine using tokenization, stop-word removal, and frequency-based sentence scoring, reducing article length by 90% while preserving key information.
-`Python` `NLP`
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**[gov_ai_copilot](https://github.com/chnithin20/gov_ai_copilot)**
-Multi-agent AI system with LangGraph orchestration, hybrid RAG (pgvector + PostgreSQL FTS), and multilingual support across 12 Indian languages, built for a government citizen-services portal.
-`Python` `LangGraph` `PostgreSQL`
+---
 
-<br>
+## 💼 Featured Projects
 
-## Certifications & Hackathons
+**[Deepfake Voice Phishing Detection](https://github.com/chnithin20)** — ML pipeline detecting synthetic voice phishing, 93% accuracy on 1,200-sample dataset. `Python` `Librosa` `Scikit-learn`
 
-**Certifications:** Robotics Workshop (NIT Warangal) · AI & ML Training · Cybersecurity Fundamentals
+**[NOVA Voice Assistant](https://github.com/chnithin20)** — STT/TTS assistant with system automation, cutting manual task time by ~88%. `Python` `SpeechRecognition`
 
-**Hackathons:**
-- Participant — HackWithAI, KLH Bachupally ACM (Telangana's largest 24-hour AI hackathon), 2026
-- Finalist — Data Security Hackathon, Supraja Technologies
-- Participant — Smart Parking Hackathon, SRM University
+**[Network Packet Sniffer](https://github.com/chnithin20)** — Live TCP/UDP/ICMP/ARP packet-capture tool, 5,000+ packets/session. `Python` `Scapy`
 
-<br>
+**[gov_ai_copilot](https://github.com/chnithin20/gov_ai_copilot)** — Multi-agent AI system with LangGraph orchestration and hybrid RAG. `Python` `LangGraph` `PostgreSQL`
 
-## GitHub Stats
+---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=chnithin20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnithin20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chnithin20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnithin20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chnithin20&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
+---
 
-</div>
+## 🔥 GitHub Streak
 
-<br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chnithin20&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
+## 🏆 GitHub Trophies
 
-*Open to internship and full-time opportunities in AI/ML and software engineering.*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chnithin20&theme=tokyonight&row=1&column=6"/>
+</p>
 
-</div>
+---
+
+## 📈 Contribution Graph
+
+[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chnithin20&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/chnithin20/chnithin20/blob/output/github-contribution-grid-snake.svg)
+
+> ⚠️ The snake animation needs a one-time GitHub Action set up in your `chnithin20/chnithin20` repo to generate this file — see setup note below.
+
+---
+
+## 📌 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chnithin20&theme=tokyonight)
+
+---
+
+## ⏰ Coding Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chnithin20&theme=tokyonight&utcOffset=5.5)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=chnithin20&color=blueviolet)
+
+---
+
+### 💭 Motto
+
+"Learn. Build. Secure. Repeat."
